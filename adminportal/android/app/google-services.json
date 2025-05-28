@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "69441341794",
+    "project_id": "studentportal-b43df",
+    "storage_bucket": "studentportal-b43df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69441341794:android:d6b6eb48666c706df1843b",
+        "android_client_info": {
+          "package_name": "com.example.adminportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMLXD9jOctVkZWRxzd35SqbWOwNyG3GNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69441341794:android:df37f8085471fc2cf1843b",
+        "android_client_info": {
+          "package_name": "com.example.studentportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMLXD9jOctVkZWRxzd35SqbWOwNyG3GNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
